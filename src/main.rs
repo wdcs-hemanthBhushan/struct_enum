@@ -66,4 +66,6 @@ fn main() {
     u1.check_strnth();
     u1.claim_weapon();
     u1.know_your_weapon();
+
+    
 }
